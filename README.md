@@ -11,6 +11,7 @@ This is a fork of https://github.com/http-party/http-server for usage by Kenzie 
 
 ## To Run:
 npm install
+
 npm start
 
 *Now you can visit http://localhost:8080 to view your server*
